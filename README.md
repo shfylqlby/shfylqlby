@@ -25,7 +25,7 @@ Saat ini saya juga sedang membangun ISP bernama **QCNET**, yang berorientasi mem
   <img src="https://img.icons8.com/color/40/linux.png" alt="Linux" title="Linux" width="40"/>
   <img src="https://img.icons8.com/fluency/40/mysql-logo.png" alt="MySQL" title="MySQL" width="40"/>
   <img src="https://img.icons8.com/color/40/nginx.png" alt="Nginx" title="Nginx" width="40"/>
-  <img src="https://images.seeklogo.com/logo-png/31/2/apache-logo-png_seeklogo-314278.png" alt="Apache" title="Apache" width="40"/>
+  <img src="https://i.imgur.com/jcrOtQh.png" alt="Apache" title="Apache" width="40"/>
   <img src="https://roundcube.net/images/roundcube_logo_icon.svg" alt="Mail Server" title="Mail Server" width="40"/>
   <img src="https://img.icons8.com/officel/40/php-logo.png" alt="PHP" title="PHP" width="40"/>
   <img src="https://img.icons8.com/color/40/python.png" alt="Python" title="Python" width="40"/>
