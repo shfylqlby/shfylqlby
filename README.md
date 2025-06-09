@@ -88,17 +88,6 @@ Saat ini saya juga sedang membangun ISP bernama **QCNET**, yang berorientasi mem
 
 ---
 
-### 📂 My Project
-
-Berikut ini project yang sedang saya kembangkan dan gunakan untuk mendukung operasional ISP dan sistem otomatisasi:
-
-<div align="left">
-
-🔧 **[MikroTik Down Count System](https://github.com/shfylqlby/mikrotik-downcount)**  
-> Sistem monitoring gangguan otomatis dengan notifikasi Telegram / Whatsapp dan scheduler mingguan ⏰  
-
----
-
 </div>
 
 > _" Bekerja dengan niat baik akan selalu menemukan jalannya, meski harus melewati banyak rerouting."_  
