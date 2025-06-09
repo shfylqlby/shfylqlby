@@ -101,5 +101,5 @@ Berikut ini project yang sedang saya kembangkan dan gunakan untuk mendukung oper
 
 </div>
 
-> _"⚡ Koneksi cepat bukan cuma soal bandwidth, tapi juga manajemen yang cerdas."_  
-> — Qalby, Founder of QCNET
+> _" Bekerja dengan niat baik akan selalu menemukan jalannya, meski harus melewati banyak rerouting."_  
+> — Qalby
