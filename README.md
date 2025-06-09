@@ -21,7 +21,9 @@ Saat ini saya juga sedang membangun ISP bernama **QCNET**, yang berorientasi mem
 
 ### 💡 My skills
 <p align="left">
+  <a href="https://mikrotik.com/" target="_blank">
   <img src="https://i.imgur.com/GGyX5tH.png" alt="MikroTik" title="MikroTik" width="40"/>
+  </a>
   <img src="https://img.icons8.com/color/40/linux.png" alt="Linux" title="Linux" width="40"/>
   <img src="https://img.icons8.com/fluency/40/mysql-logo.png" alt="MySQL" title="MySQL" width="40"/>
   <img src="https://img.icons8.com/color/40/nginx.png" alt="Nginx" title="Nginx" width="40"/>
