@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=shfylqlby&label=👁️%20Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/MikroTik-Scripting-blue?style=flat&logo=mikrotik" alt="MikroTik" />
   <img src="https://img.shields.io/badge/Linux-CLI-informational?style=flat&logo=linux" alt="Linux" />
+  <a href="https://qcnetwork.net" target="_blank">
   <img src="https://img.shields.io/badge/ISP-QCNET-success?style=flat&logo=internet-explorer" alt="ISP QCNET" />
+  <a/>
 </p>
 
 
