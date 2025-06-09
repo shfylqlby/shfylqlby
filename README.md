@@ -21,7 +21,7 @@ Saat ini saya juga sedang membangun ISP bernama **QCNET**, yang berorientasi mem
 
 ### 💡 My skills
 <p align="left">
-  <img src="https://img.icons8.com/ios-filled/40/router.png" alt="MikroTik" title="MikroTik" width="40"/>
+  <img src="https://i.imgur.com/GGyX5tH.png" alt="MikroTik" title="MikroTik" width="40"/>
   <img src="https://img.icons8.com/color/40/linux.png" alt="Linux" title="Linux" width="40"/>
   <img src="https://img.icons8.com/fluency/40/mysql-logo.png" alt="MySQL" title="MySQL" width="40"/>
   <img src="https://img.icons8.com/color/40/nginx.png" alt="Nginx" title="Nginx" width="40"/>
@@ -31,7 +31,7 @@ Saat ini saya juga sedang membangun ISP bernama **QCNET**, yang berorientasi mem
   <img src="https://img.icons8.com/color/40/python.png" alt="Python" title="Python" width="40"/>
   <img src="https://img.icons8.com/color/40/html-5--v1.png" alt="HTML" title="HTML" width="40"/>
   <img src="https://img.icons8.com/color/40/css3.png" alt="CSS" title="CSS" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cloudflare.svg" alt="Cloudflare" title="Cloudflare" width="40"/>
+  <img src="https://i.imgur.com/rBM8MUR.png" alt="Cloudflare" title="Cloudflare" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/AaPanel_Logo.png" alt="aaPanel" title="aaPanel" width="40"/>
   <img src="https://img.icons8.com/fluent/40/proxmox.png" alt="Proxmox" title="Proxmox" width="40"/>
 </p>
