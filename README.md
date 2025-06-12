@@ -82,9 +82,13 @@ Saat ini saya juga sedang membangun ISP bernama **QCNET**, yang berorientasi mem
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Language
 
-![shfylqlby's GitHub stats](https://github-readme-stats.vercel.app/api?username=shfylqlby&show_icons=true&theme=dracula&locale=id)
+<div align="center" style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shfylqlby&show_icons=true&theme=dracula&locale=id" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shfylqlby&layout=compact&theme=dracula" height="100"/>
+</div>
+
 
 ---
 
