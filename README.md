@@ -13,7 +13,7 @@
 
 ---
 
-### 💻 Tentang Saya
+### Tentang Saya
 
 Saya adalah **Network Engineer** yang fokus di bidang **Manajemen Jaringan WAN**, terutama berpengalaman dalam konfigurasi dan optimasi **MikroTik RouterOS**. Saat ini saya aktif mengembangkan sistem ISP berbasis otomatisasi jaringan menggunakan **scripting** dan **API WhatsApp Gateway** 🤖.
 
@@ -21,7 +21,7 @@ Saat ini saya juga sedang membangun ISP bernama **QCNET**, yang berorientasi mem
 
 ---
 
-### 💡 My skills
+### My skills
 <p align="left">
   <a href="https://mikrotik.com/" target="_blank">
   <img src="https://i.imgur.com/GGyX5tH.png" alt="MikroTik" title="MikroTik" width="40"/>
@@ -66,7 +66,7 @@ Saat ini saya juga sedang membangun ISP bernama **QCNET**, yang berorientasi mem
 
 ---
 
-### 🔗 Connect with me
+### Connect with me
 <p align="left">
   <a href="https://instagram.com/shfylqlby" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40"/>
@@ -82,7 +82,7 @@ Saat ini saya juga sedang membangun ISP bernama **QCNET**, yang berorientasi mem
 
 ---
 
-### 📈 GitHub Stats & Language
+### GitHub Stats & Language
 
 <div align="center" style="display: flex; gap: 10px; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=shfylqlby&show_icons=true&theme=dracula&locale=id" height="140"/>
