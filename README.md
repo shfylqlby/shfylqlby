@@ -77,16 +77,19 @@ Halo! Saya **Qalby** — Network Engineer dari **Pekalongan, Indonesia** 🇮�
 
 ---
 
+---
+
 ## Featured Projects
 
 <div align="center">
 
+<!-- Jika vercel utama down, disarankan untuk deploy ke vercel pribadi agar tidak terkena rate limit -->
 <a href="https://github.com/shfylqlby/mikrotik">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shfylqlby&repo=mikrotik&theme=dracula&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&desc_color=a0aec0&bg_color=1a1a2e"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shfylqlby&repo=mikrotik&theme=dracula&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&desc_color=a0aec0&bg_color=1a1a2e" alt="MikroTik Project"/>
 </a>
 &nbsp;
 <a href="https://github.com/shfylqlby/landing-page-internet-positif">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shfylqlby&repo=landing-page-internet-positif&theme=dracula&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&desc_color=a0aec0&bg_color=1a1a2e"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shfylqlby&repo=landing-page-internet-positif&theme=dracula&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&desc_color=a0aec0&bg_color=1a1a2e" alt="Internet Positif Project"/>
 </a>
 
 </div>
@@ -97,13 +100,14 @@ Halo! Saya **Qalby** — Network Engineer dari **Pekalongan, Indonesia** 🇮�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shfylqlby&show_icons=true&theme=dracula&locale=id&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&count_private=true&rank_icon=github" height="165"/>
+<!-- Menambahkan tag alt agar jika error tidak merusak layout & bungkus dengan div flex jika perlu -->
+<img src="https://github-readme-stats.vercel.app/api?username=shfylqlby&show_icons=true&theme=dracula&locale=id&border_color=00D9FF&icon_color=00D9FF&title_color=00D9FF&count_private=true&rank_icon=github" height="165" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=shfylqlby&theme=dracula&border=00D9FF&ring=00D9FF&fire=ff6b6b&currStreakLabel=00D9FF&sideLabels=00D9FF" height="165"/>
+<img src="https://streak-stats.demolab.com?user=shfylqlby&theme=dracula&border=00D9FF&ring=00D9FF&fire=ff6b6b&currStreakLabel=00D9FF&sideLabels=00D9FF" height="165" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shfylqlby&layout=compact&theme=dracula&border_color=00D9FF&title_color=00D9FF&locale=id" height="130"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shfylqlby&layout=compact&theme=dracula&border_color=00D9FF&title_color=00D9FF&locale=id" height="140" alt="Top Languages"/>
 
 </div>
 
@@ -112,7 +116,8 @@ Halo! Saya **Qalby** — Network Engineer dari **Pekalongan, Indonesia** 🇮�
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shfylqlby&theme=dracula&no-frame=true&margin-w=8&row=1&column=7" width="100%"/>
+  <!-- Menambahkan fallback jika trophy error -->
+  <img src="https://github-profile-trophy.vercel.app/?username=shfylqlby&theme=dracula&no-frame=true&margin-w=8&row=1&column=7" width="100%" alt="GitHub Trophies"/>
 </div>
 
 ---
